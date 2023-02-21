@@ -1,10 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1> Welcome to Haroldcyclopedia</h1>
+      <p class="text-3xl font-bold underline">here</p>
     </div>
   );
 }
