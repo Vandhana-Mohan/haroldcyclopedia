@@ -85,12 +85,39 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ##### mdn
 
+##### Extensions
 
+- https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
+
+##### npm Packages for React Developers
+
+- https://dev.to/manindu/a-list-of-useful-npm-packages-for-react-developers-3dhg
 
 #### Javascript Higher Order Functions & Arrays
 
 ##### youtube
 
 - https://www.youtube.com/watch?v=rRgD1yVwIvE&ab_channel=TraversyMedia (34.55 mins)
+- https://www.youtube.com/playlist?list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU
+
+##### articles
+- https://www.javascripttutorial.net/javascript-primitive-vs-reference-values/
+- https://visualgo.net/en/sorting
 
 ##### mdn
+
+##### API call in JavaScript
+
+- https://levelup.gitconnected.com/all-possible-ways-of-making-an-api-call-in-plain-javascript-c0dee3c11b8b
+- https://www.traceable.ai/blog-post/what-is-a-crud-api#:~:text=CRUD%20stands%20for%20create%2C%20read,application%2C%20for%20that%20matter).
+- https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
+
+
+### Go
+
+- https://go.dev/doc/effective_go#introduction
+
+mdn
+w3schools
+freecodecamp
+geeksforgeeks
