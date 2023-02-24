@@ -101,3 +101,11 @@ mdn
 w3schools
 freecodecamp
 geeksforgeeks
+
+
+##### general 
+
+- https://webkit.org/
+
+
+
