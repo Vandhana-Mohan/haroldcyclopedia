@@ -1,6 +1,18 @@
+## Git Commands
+- git remote add upstream https://github.com/whoever/whatever.git (only for the first time)
+- git checkout -b [Your branch name]
+- git checkout main
+- git fetch upstream (Grabs Changes From the Original Repo)
+- git checkout main (Your main branch)
+- git merge upstream/main (Merges the changes from the original repo)
+- git checkout {Your testing branch name}
+- git merge main (Grabs changes from your main)
+- git add . (Add changes to your testing branch)
+- git commit (Commit changes to testing branch)
+- git push (Push changes to you Github repo)
+- make a pull request to the original repo (edited) 
 
 [Wire Frame](https://miro.com/app/board/uXjVPlSbiYU=/?userEmail=keeanurodriguez@pursuit.org&track=true&utm_source=notification&utm_medium=email&utm_campaign=add-to-board&utm_content=go-to-board&sharingIntentId=3458764546779247840)
-
 
 # Resources
 
