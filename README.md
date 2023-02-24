@@ -68,3 +68,29 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Resources
+
+## Clean Code
+
+- https://thixalongmy.haugiang.gov.vn/media/1175/clean_code.pdf
+
+### React
+
+##### youtube
+
+- https://www.youtube.com/watch?v=cd3P3yXyx30&ab_channel=Nerd%27slesson (6 hr video)
+- https://youtu.be/8pDqJVdNa44
+
+##### mdn
+
+
+
+#### Javascript Higher Order Functions & Arrays
+
+##### youtube
+
+- https://www.youtube.com/watch?v=rRgD1yVwIvE&ab_channel=TraversyMedia (34.55 mins)
+
+##### mdn
