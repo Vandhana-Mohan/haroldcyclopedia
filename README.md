@@ -84,6 +84,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - https://youtu.be/8pDqJVdNa44
 - https://github.com/krasimir/react-in-patterns
 - https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+- https://beta.reactjs.org/learn/keeping-components-pure
 
 ##### mdn
 
@@ -129,6 +130,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Github
 
 - https://www.youtube.com/watch?v=iv8rSLsi1xo
+
+### CSS
+
+- https://css-tricks.com/look-ma-no-media-queries-responsive-layouts-using-css-grid/
+- gridgenerator
+- flexgenerator
+- https://github.com/CSSInDepth
+- https://sd.blackball.lv/library/CSS_in_Depth_(2018).pdf
+- http://flexbox.io
+- https://cssgrid.io
+- https://tailwindcss.com/docs/responsive-design#overview
 
 gradient color
 
