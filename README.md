@@ -103,9 +103,5 @@ freecodecamp
 geeksforgeeks
 
 
-##### general 
-
-- https://webkit.org/
-
 
 
