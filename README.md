@@ -82,6 +82,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 - https://www.youtube.com/watch?v=cd3P3yXyx30&ab_channel=Nerd%27slesson (6 hr video)
 - https://youtu.be/8pDqJVdNa44
+- https://github.com/krasimir/react-in-patterns
+- https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 
 ##### mdn
 
@@ -103,6 +105,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ##### articles
 - https://www.javascripttutorial.net/javascript-primitive-vs-reference-values/
 - https://visualgo.net/en/sorting
+- https://www.npmjs.com/package/react-scroll
 
 ##### mdn
 
@@ -116,7 +119,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Go
 
 - https://go.dev/doc/effective_go#introduction
+- https://www.sololearn.com/Course/go/?ref=app
+- https://exercism.org/tracks/go
 
+### Tailwind
+
+- https://nerdcave.com/tailwind-cheat-sheet
+
+### Github
+
+- https://www.youtube.com/watch?v=iv8rSLsi1xo
+
+gradient color
+
+- https://webgradients.com/
+- https://mycolor.space/ 
+
+sdlc
+
+- https://stackify.com/what-is-sdlc/
 mdn
 w3schools
 freecodecamp
