@@ -30,7 +30,9 @@
 - https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 - https://beta.reactjs.org/learn/keeping-components-pure
 - https://youtube.com/playlist?list=PLQg6GaokU5CyvExiaMgXP_BS5WWNBfZJN
-
+- https://reactrouter.com/en/6.8.1
+- https://reactrouter.com/en/6.8.1/components/link
+- https://www.freecodecamp.org/news/react-router-cheatsheet/ 
 
 ##### mdn
 
@@ -76,6 +78,10 @@
 ### Github
 
 - https://www.youtube.com/watch?v=iv8rSLsi1xo
+
+### Git
+
+- https://youtu.be/utSyddPSRsE
 
 ### CSS
 
