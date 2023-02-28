@@ -12,3 +12,20 @@ function App() {
 }
 
 export default App;
+
+
+/* 
+
+article_id - random
+
+article_name
+article_subject (react / html / css)
+article_type (pdf / youtube / book / kindle) */
+
+/* tailwind */
+
+/* header svg, main - together */
+
+/* Nav Bar - vandhana */
+
+/* Footer - Keeanu */
