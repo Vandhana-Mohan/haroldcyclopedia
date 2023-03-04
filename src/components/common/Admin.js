@@ -12,11 +12,11 @@ const Admin = ({ isOn, handleToggle, onColor }) => {
       />
       <label
         style={{ background: isOn && onColor }}
-        className="inline-flex items-center rounded-full w-32 h-16 bg-gray-700 cursor-pointer transition-colors duration-200"
+        className="inline-flex items-center rounded-full w-28 h-12 bg-gray-700 cursor-pointer transition-colors duration-200"
         htmlFor={`react-switch-new`}
       >
         <span
-          className={`inline-block w-14 h-14 rounded-full transition-transform duration-200 transform ${
+          className={`inline-block w-12 h-12 rounded-full transition-transform duration-200 transform ${
             isOn ? "translate-x-16 bg-black" : "bg-red-400"
           }`}
         />

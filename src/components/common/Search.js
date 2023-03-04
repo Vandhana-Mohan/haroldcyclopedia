@@ -1,7 +1,7 @@
 const Search = () => {
   return (
-    <div className="max-w-6xl">
-      <aside className="rounded-lg border-2 border-black">
+    <div className="w-2/5">
+      <aside className="rounded-lg">
         <form>
           <div className="flex">
             <label
